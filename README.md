@@ -13,4 +13,4 @@
 
 [Homework 7](https://colab.research.google.com/drive/1WMCmggqSODpMhp-z35EYJhpx0EWrraY2?usp=sharing)
 
-[Final Project](https://colab.research.google.com/drive/1esYyp-ViELlXDnCdz3dagsVTCIKS7pf8).
+[Final Project](https://colab.research.google.com/drive/1esYyp-ViELlXDnCdz3dagsVTCIKS7pf8)
